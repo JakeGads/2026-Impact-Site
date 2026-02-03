@@ -26,7 +26,7 @@ This site is automatically deployed to GitHub Pages when changes are pushed to t
 1. Go to your repository Settings
 2. Navigate to Pages (under Code and automation)
 3. Set Source to "GitHub Actions"
-4. The site will be available at: `https://frcteam272.github.io/2026-Impact-Site/`
+4. The site will be available at: `https://JakeGads.github.io/2026-Impact-Site/`
 
 ## Local Development
 
